@@ -1,0 +1,4 @@
+route_id,route_name,start_stop,end_stop,total_stops
+1,"Blue Line",Downtown,Airport,12
+2,"Green Line",Uptown,"City Park",10
+3,"Red Line","East End","West End",15

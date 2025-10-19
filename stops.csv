@@ -1,0 +1,10 @@
+stop_id,stop_name,route_id,stop_order
+1,Downtown,1,1
+2,"Main St",1,2
+3,Airport,1,12
+4,Uptown,2,1
+5,"Central Plaza",2,5
+6,"City Park",2,10
+7,"East End",3,1
+8,University,3,8
+9,"West End",3,15
